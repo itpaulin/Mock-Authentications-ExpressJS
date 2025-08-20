@@ -183,8 +183,8 @@ const mockDataEasy =
     name: "Paulo Ricardo",
     age: 22,
     address: {
-      street: "Avenida antonio mario de azevedo",
-      number: 13200
+      street: "Capão redondo",
+      number: 11
     },
     single: true,
     salary: 1652.23
